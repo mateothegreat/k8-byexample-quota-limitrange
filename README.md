@@ -2,7 +2,8 @@
 
 > k8 by example
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yomateod.svg?label=Follow&style=flat-square)](https://twitter.com/yomateod) [![Skype Contact](https://img.shields.io/badge/skype%20id-appsoa-ff69b4.svg?style=flat-square)](skype:appsoa?chat)
+[![Clickity click](https://img.shields.io/badge/matthewdavis.io-k8%20by%examples-ff69b4.svg?style=flat-square)](https://k8.matthewdavis.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yomateod.svg?label=Follow&style=flat-square)](https://twitter.com/yomateod) [![Skype Contact](https://img.shields.io/badge/skype%20id-appsoa-blue.svg?style=flat-square)](skype:appsoa?chat)
 
 ```bash
 yomateod@proliant:/workspace/k8/kubernetes-quota$ make install
